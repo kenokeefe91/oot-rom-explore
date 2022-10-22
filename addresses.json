@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Hyrule Field",
+    "address": "0xb6d2b0",
+    "value": "0x51000010"
+  },
+  {
+    "name": "Kakariko Village",
+    "address": "0xb6d2b4",
+    "value": "0x52000010"
+  },
+  {
+    "name": "Graveyard",
+    "address": "0xb6d2b8",
+    "value": "0x53000010"
+  },
+  {
+    "name": "Zora's River",
+    "address": "0xb6d2bc",
+    "value": "0x54000010"
+  },
+  {
+    "name": "Kokiri Forest",
+    "address": "0xb6d2c0",
+    "value": "0x55000010"
+  },
+  {
+    "name": "Sacred Forest Meadow",
+    "address": "0xb6d2c4",
+    "value": "0x56000010"
+  },
+  {
+    "name": "Lake Hylia",
+    "address": "0xb6d2c8",
+    "value": "0x57000010"
+  },
+  {
+    "name": "Zora's Domain",
+    "address": "0xb6d2cc",
+    "value": "0x58000010"
+  },
+  {
+    "name": "Zora's Fountain",
+    "address": "0xb6d2d0",
+    "value": "0x59000010"
+  },
+  {
+    "name": "Gerudo Valley",
+    "address": "0xb6d2d4",
+    "value": "0x5a000010"
+  },
+  {
+    "name": "Lost Woods",
+    "address": "0xb6d2d8",
+    "value": "0x5b000010"
+  },
+  {
+    "name": "Desert Colossus",
+    "address": "0xb6d2dc",
+    "value": "0x5c000010"
+  },
+  {
+    "name": "Gerudo's Fortress",
+    "address": "0xb6d2e0",
+    "value": "0x5d000010"
+  },
+  {
+    "name": "Haunted Wasteland",
+    "address": "0xb6d2e4",
+    "value": "0x5e000010"
+  },
+  {
+    "name": "Hyrule Castle",
+    "address": "0xb6d2e8",
+    "value": "0x5f000010"
+  },
+  {
+    "name": "Ganon's Castle Exterior",
+    "address": "0xb6d2ec",
+    "value": "0x64000010"
+  },
+  {
+    "name": "Death Mountain Trail",
+    "address": "0xb6d2f0",
+    "value": "0x60000010"
+  },
+  {
+    "name": "Death Mountain Crater",
+    "address": "0xb6d2f4",
+    "value": "0x61000010"
+  },
+  {
+    "name": "Goron City",
+    "address": "0xb6d2f8",
+    "value": "0x62000010"
+  },
+  {
+    "name": "Lon Lon Ranch",
+    "address": "0xb6d2fc",
+    "value": "0x63000010"
+  },
+  {
+    "name": "Temple of Time",
+    "address": "0xb6d300",
+    "value": "0x43001015"
+  },
+  {
+    "name": "Chamber of the Sages",
+    "address": "0xb6d304",
+    "value": "0x44a2aaaa"
+  },
+  {
+    "name": "Shooting Gallery",
+    "address": "0xb6d308",
+    "value": "0x42115555"
+  },
+  {
+    "name": "Castle Hedge Maze (Day)",
+    "address": "0xb6d30c",
+    "value": "0x45115555"
+  },
+  {
+    "name": "Castle Hedge Maze (Night)",
+    "address": "0xb6d310",
+    "value": "0x46115555"
+  },
+  {
+    "name": "Grave (Redead)",
+    "address": "0xb6d314",
+    "value": "0x3f0000d0"
+  },
+  {
+    "name": "Grave (Fairy's Fountain)",
+    "address": "0xb6d318",
+    "value": "0x400000d0"
+  },
+  {
+    "name": "Royal Family's Tomb",
+    "address": "0xb6d31c",
+    "value": "0x410000d0"
+  },
+  {
+    "name": "Great Fairy's Fountain (Upgrades)",
+    "address": "0xb6d320",
+    "value": "0x3b000010"
+  },
+  {
+    "name": "Fairy's Fountain",
+    "address": "0xb6d324",
+    "value": "0x3c0000d0"
+  },
+  {
+    "name": "Great Fairy's Fountain (Spells)",
+    "address": "0xb6d328",
+    "value": "0x3d000010"
+  },
+  {
+    "name": "Tower Collapse Exterior [?]",
+    "address": "0xb6d32c",
+    "value": "0x1a000550"
+  },
+  {
+    "name": "Castle Courtyard",
+    "address": "0xb6d330",
+    "value": "0x4a000554"
+  },
+  {
+    "name": "Fishing Pond",
+    "address": "0xb6d334",
+    "value": "0x49115555"
+  },
+  {
+    "name": "Bombchu Bowling Alley",
+    "address": "0xb6d338",
+    "value": "0x4b115555"
+  },
+  {
+    "name": "Ranch House & Silo",
+    "address": "0xb6d33c",
+    "value": "0x4c001015"
+  },
+  {
+    "name": "Guard House",
+    "address": "0xb6d340",
+    "value": "0x4d001014"
+  },
+  {
+    "name": "Granny's Potion Shop",
+    "address": "0xb6d344",
+    "value": "0x4e101555"
+  },
+  {
+    "name": "Treasure Box Shop",
+    "address": "0xb6d348",
+    "value": "0x10101555"
+  },
+  {
+    "name": "House of Skulltula",
+    "address": "0xb6d34c",
+    "value": "0x50001015"
+  },
+  {
+    "name": "Market Entrance (Child - Day)",
+    "address": "0xb6d350",
+    "value": "0x1b001015"
+  },
+  {
+    "name": "Market Entrance (Child - Night)",
+    "address": "0xb6d354",
+    "value": "0x1c001015"
+  },
+  {
+    "name": "Market Entrance (Ruins)",
+    "address": "0xb6d358",
+    "value": "0x1d0010d5"
+  },
+  {
+    "name": "Market (Child - Day)",
+    "address": "0xb6d35c",
+    "value": "0x20001015"
+  },
+  {
+    "name": "Market (Child - Night)",
+    "address": "0xb6d360",
+    "value": "0x21001015"
+  },
+  {
+    "name": "Market (Ruins)",
+    "address": "0xb6d364",
+    "value": "0x220010d5"
+  },
+  {
+    "name": "Back Alley (Child - Day)",
+    "address": "0xb6d368",
+    "value": "0x1e001015"
+  },
+  {
+    "name": "Back Alley (Child - Night)",
+    "address": "0xb6d36c",
+    "value": "0x1f001015"
+  },
+  {
+    "name": "Temple of Time Exterior (Child - Day)",
+    "address": "0xb6d370",
+    "value": "0x23001015"
+  },
+  {
+    "name": "Temple of Time Exterior (Child - Night)",
+    "address": "0xb6d374",
+    "value": "0x24001015"
+  },
+  {
+    "name": "Temple of Time Exterior (Ruins)",
+    "address": "0xb6d378",
+    "value": "0x250010d5"
+  },
+  {
+    "name": "Link's House",
+    "address": "0xb6d37c",
+    "value": "0x34101015"
+  },
+  {
+    "name": "Carpenter Boss's House",
+    "address": "0xb6d380",
+    "value": "0x2a101015"
+  },
+  {
+    "name": "Back Alley House (Man in Green)",
+    "address": "0xb6d384",
+    "value": "0x2b101015"
+  },
+  {
+    "name": "Know-It-All Brothers' House",
+    "address": "0xb6d388",
+    "value": "0x26101015"
+  },
+  {
+    "name": "House of Twins",
+    "address": "0xb6d38c",
+    "value": "0x27101015"
+  },
+  {
+    "name": "Mido's House",
+    "address": "0xb6d390",
+    "value": "0x28101015"
+  },
+  {
+    "name": "Saria's House",
+    "address": "0xb6d394",
+    "value": "0x29101015"
+  },
+  {
+    "name": "Stable",
+    "address": "0xb6d398",
+    "value": "0x36101015"
+  },
+  {
+    "name": "Gravekeeper's Hut",
+    "address": "0xb6d39c",
+    "value": "0x3a101015"
+  },
+  {
+    "name": "Back Alley House (Dog Lady)",
+    "address": "0xb6d3a0",
+    "value": "0x35101015"
+  },
+  {
+    "name": "Impa's House",
+    "address": "0xb6d3a4",
+    "value": "0x37101015"
+  },
+  {
+    "name": "Lakeside Laboratory",
+    "address": "0xb6d3a8",
+    "value": "0x38001015"
+  },
+  {
+    "name": "Carpenters' Tent",
+    "address": "0xb6d3ac",
+    "value": "0x39101015"
+  },
+  {
+    "name": "Bazaar",
+    "address": "0xb6d3b0",
+    "value": "0x2c101015"
+  },
+  {
+    "name": "Kokiri Shop",
+    "address": "0xb6d3b4",
+    "value": "0x2d101015"
+  },
+  {
+    "name": "Goron Shop",
+    "address": "0xb6d3b8",
+    "value": "0x2e101015"
+  },
+  {
+    "name": "Zora Shop",
+    "address": "0xb6d3bc",
+    "value": "0x2f101015"
+  },
+  {
+    "name": "Kakariko Potion Shop",
+    "address": "0xb6d3c0",
+    "value": "0x30101015"
+  },
+  {
+    "name": "Market Potion Shop",
+    "address": "0xb6d3c4",
+    "value": "0x31101015"
+  },
+  {
+    "name": "Bombchu Shop",
+    "address": "0xb6d3c8",
+    "value": "0x32101015"
+  },
+  {
+    "name": "Happy Mask Shop ",
+    "address": "0xb6d3cc",
+    "value": "0x33101015"
+  }
+]
